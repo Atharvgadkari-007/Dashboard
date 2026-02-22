@@ -1,0 +1,107 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4ff;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #888;
+    margin-bottom: 20px;
+}
+
+.form-box {
+    width: 400px;
+    margin: 0 auto 30px auto;
+    background: white;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
+
+.form-box h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.form-box input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form-box button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: 1px solid #388E3C;
+    border-radius: 5px;
+}
+
+.form-box button:hover {
+    background-color: #191b19;
+}
+
+.card {
+    width: 400px;
+    margin: 10px auto;
+    background: white;
+    padding: 15px 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
+
+.card h3 {
+    margin: 0 0 5px 0;
+    color: #333;
+}
+
+.card a {
+    font-size: 13px;
+    color: #3a3a8a;
+    text-decoration: none;
+}
+
+.skill-tag {
+    display: inline-block;
+    background-color: #e0e0e0;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    cursor: pointer;
+    margin: 3px;
+    border: 1px solid #666;
+}
+
+.skill-tag:hover {
+    background-color: #ffdddd;
+    color: #c0392b;
+}
+
+.card button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    font-size: 13px;
+    cursor: pointer;
+    background-color: #e0e0e0;
+    border: 1px solid #666;
+    border-radius: 5px;
+}
+
+.card button:hover {
+    background-color: #d0d0d0;
+}
